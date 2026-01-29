@@ -1,10 +1,14 @@
 # IMERSÃO ALURA
 
-Dia 1
+## Dia 1
 
-Bases de dados: https://www.kaggle.com/
-Palavra-chave: pandas
+- Bases de dados: https://www.kaggle.com/
+- Palavra-chave: pandas
 
-Dia 2
+## Dia 2
 
 Palavra-chave: print
+
+## Dia 3
+
+Palavra-chave: matplotlib
