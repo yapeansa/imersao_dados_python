@@ -12,3 +12,8 @@ Palavra-chave: print
 ## Dia 3
 
 Palavra-chave: matplotlib
+
+
+## Dia 4
+
+Palavra-chave: Alura
